@@ -1,4 +1,4 @@
-[Unit]
+[Unit]           #this file is not needed as we mentioned in cart.service.j2 of templates
 Description = Cart Service
 [Service]
 User=roboshop
